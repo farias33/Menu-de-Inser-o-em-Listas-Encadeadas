@@ -1,5 +1,3 @@
-The code you provided is a C++ program that manages a singly linked list to perform various operations on a list of people, each represented by a structure called `Pessoa`. This structure contains a person's name, identification number (RG), and a pointer to the next person in the list. The program offers several functions to manipulate the linked list, including adding and removing nodes and searching through the list. Here's a breakdown of the functionality:
-
 ### Functions and Their Roles:
 
 1. **`limpaTela()`**:
